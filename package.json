@@ -4,7 +4,8 @@
   "description": "This is a solution to the Time tracking dashboard challenge on Frontend Mentor.",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp",
+    "build": "gulp prod"
   },
   "repository": {
     "type": "git",
