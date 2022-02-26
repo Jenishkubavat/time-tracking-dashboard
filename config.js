@@ -3,6 +3,11 @@ module.exports = {
 		tailwindjs: "./tailwind.config.js",
 		port: 3000
 	},
+	ghostMode: {
+		scroll: true,
+		links: true,
+		forms: true
+	  },
 	paths: {
 		root: "./",
 		src: {

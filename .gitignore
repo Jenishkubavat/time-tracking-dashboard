@@ -18,3 +18,4 @@ README-template.md
 
 node_modules/
 dir/
+src/**/*.css
